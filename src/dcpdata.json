@@ -1,0 +1,238 @@
+[
+  
+  {
+    "areas":
+    [
+      {"hlsd":"01"},
+      {"sdhm":"01"},
+      {"cdpk":"02"},
+      {"kllg":"02"},
+      {"klnt":"02"},
+      {"tlws":"02"},
+      {"kelr":"03"},
+      {"tles":"03"},
+      {"dlhy":"04"},
+      {"kldw":"05"},
+      {"kles":"06"},
+      {"klpr":"06"},
+      {"tlmn":"06"},
+      {"knpr":"07"},
+      {"sawa":"08"},
+      {"saea":"09"},
+      {"klba":"10"},
+      {"albv":"11"},
+      {"crnl":"12"},
+      {"drpk":"13"},
+      {"ardr":"14"},
+      {"albn":"15"},
+      {"ssnt":"16"},
+      {"drmt":"17"},
+      {"sswt":"18"},
+      {"ssab":"19"},
+      {"sstc":"20"}
+    ]
+  },
+  {
+    "developmentTypes":
+    [
+      {"value":"rsdn", "label":"Residential"},
+      {"value":"retl", "label":"Retail"},
+      {"value":"comm", "label":"Commercial"},
+      {"value":"inds", "label":"Industrial"}
+    ]
+  },
+  {
+    "rates":
+      {
+        "hlsd":
+          {
+            "rsdn":{"dilpd": 184.63, "cilpd": 722.71, "tipd": 907.34},
+            "retl":{"devsqm": 5.43, "comsqm": 0.00, "totsqm": 5.43},
+            "comm":{"devsqm": 2.00, "comsqm": 0.00, "totsqm": 2.00},
+            "inds":{"devsqm": 0.48, "comsqm": 0.00, "totsqm": 0.48}
+          },
+    "sdhm": 
+      {
+        "rsdn":{"dilpd": 184.63, "cilpd": 722.71, "tipd": 907.34},
+        "retl":{"devsqm": 5.43, "comsqm": 0.00, "totsqm": 5.43},
+        "comm":{"devsqm": 2.00, "comsqm": 0.00, "totsqm": 2.00},
+        "inds":{"devsqm": 0.48, "comsqm": 0.00, "totsqm": 0.48}
+      },
+    "cdpk": 
+      {
+        "rsdn":{"dilpd": 172.71, "cilpd": 722.71, "tipd": 895.42},
+        "retl":{"devsqm": 4.53, "comsqm": 0.00, "totsqm": 4.53},
+        "comm":{"devsqm": 1.99, "comsqm": 0.00, "totsqm": 1.99},
+        "inds":{"devsqm": 0.42, "comsqm": 0.00, "totsqm": 0.42}
+      },
+    "kllg":
+      {
+        "rsdn":{"dilpd": 172.71, "cilpd": 722.71, "tipd": 895.42},
+        "retl":{"devsqm": 4.53, "comsqm": 0.00, "totsqm": 4.53},
+        "comm":{"devsqm": 1.99, "comsqm": 0.00, "totsqm": 1.99},
+        "inds":{"devsqm": 0.42, "comsqm": 0.00, "totsqm": 0.42}
+      },
+    "klnt":
+      {
+        "rsdn":{"dilpd": 172.71, "cilpd": 722.71, "tipd": 895.42},
+        "retl":{"devsqm": 4.53, "comsqm": 0.00, "totsqm": 4.53},
+        "comm":{"devsqm": 1.99, "comsqm": 0.00, "totsqm": 1.99},
+        "inds":{"devsqm": 0.42, "comsqm": 0.00, "totsqm": 0.42}
+      },
+    "tlws":
+      {
+        "rsdn":{"dilpd": 172.71, "cilpd": 722.71, "tipd": 895.42},
+        "retl":{"devsqm": 4.53, "comsqm": 0.00, "totsqm": 4.53},
+        "comm":{"devsqm": 1.99, "comsqm": 0.00, "totsqm": 1.99},
+        "inds":{"devsqm": 0.42, "comsqm": 0.00, "totsqm": 0.42}
+      },
+    "kelr":
+      {
+        "rsdn":{"dilpd": 121.18, "cilpd": 714.21, "tipd": 835.39},
+        "retl":{"devsqm": 2.23, "comsqm": 0.00, "totsqm": 2.23},
+        "comm":{"devsqm": 1.95, "comsqm": 0.00, "totsqm": 1.95},
+        "inds":{"devsqm": 0.25, "comsqm": 0.00, "totsqm": 0.25}
+      },
+    "tles": 
+      {
+        "rsdn":{"dilpd": 121.18, "cilpd": 714.21, "tipd": 835.39},
+        "retl":{"devsqm": 2.23, "comsqm": 0.00, "totsqm": 2.23},
+        "comm":{"devsqm": 1.95, "comsqm": 0.00, "totsqm": 1.95},
+        "inds":{"devsqm": 0.25, "comsqm": 0.00, "totsqm": 0.25}
+      },
+    "dlhy": 
+      {
+        "rsdn":{"dilpd": 254.85, "cilpd": 864.88, "tipd": 1119.73},
+        "retl":{"devsqm": 5.20, "comsqm": 0.00, "totsqm": 5.20},
+        "comm":{"devsqm": 3.75, "comsqm": 0.00, "totsqm": 3.75},
+        "inds":{"devsqm": 0.55, "comsqm": 0.00, "totsqm": 0.55}
+      },
+    "kldw":
+      {
+        "rsdn":{"dilpd": 204.26, "cilpd": 847.94, "tipd": 1052.20},
+        "retl":{"devsqm": 3.55, "comsqm": 0.00, "totsqm": 3.55},
+        "comm":{"devsqm": 3.02, "comsqm": 0.00, "totsqm": 3.02},
+        "inds":{"devsqm": 0.40, "comsqm": 0.00, "totsqm": 0.40}
+      },
+    "kles":
+      {
+        "rsdn":{"dilpd": 92.52, "cilpd": 714.21, "tipd": 806.73},
+        "retl":{"devsqm": 1.77, "comsqm": 0.00, "totsqm": 1.77},
+        "comm":{"devsqm": 1.39, "comsqm": 0.00, "totsqm": 1.39},
+        "inds":{"devsqm": 0.19, "comsqm": 0.00, "totsqm": 0.19}
+      },
+    "klpr":
+      {
+        "rsdn":{"dilpd": 92.52, "cilpd": 714.21, "tipd": 806.73},
+        "retl":{"devsqm": 1.77, "comsqm": 0.00, "totsqm": 1.77},
+        "comm":{"devsqm": 1.39, "comsqm": 0.00, "totsqm": 1.39},
+        "inds":{"devsqm": 0.19, "comsqm": 0.00, "totsqm": 0.19}
+      },
+    "tlmn":
+      {
+        "rsdn":{"dilpd": 92.52, "cilpd": 714.21, "tipd": 806.73},
+        "retl":{"devsqm": 1.77, "comsqm": 0.00, "totsqm": 1.77},
+        "comm":{"devsqm": 1.39, "comsqm": 0.00, "totsqm": 1.39},
+        "inds":{"devsqm": 0.19, "comsqm": 0.00, "totsqm": 0.19}
+      },
+    "knpr":
+      {
+        "rsdn":{"dilpd": 170.96, "cilpd": 864.88, "tipd": 1035.84},
+        "retl":{"devsqm": 1.93, "comsqm": 0.00, "totsqm": 1.93},
+        "comm":{"devsqm": 2.71, "comsqm": 0.00, "totsqm": 2.71},
+        "inds":{"devsqm": 0.27, "comsqm": 0.00, "totsqm": 0.27}
+      },
+    "sawa":
+      {
+        "rsdn":{"dilpd": 527.74, "cilpd": 1092.88, "tipd": 1620.62},
+        "retl":{"devsqm": 4.92, "comsqm": 0.00, "totsqm": 4.92},
+        "comm":{"devsqm": 5.49, "comsqm": 0.00, "totsqm": 5.49},
+        "inds":{"devsqm": 0.62, "comsqm": 0.00, "totsqm": 0.62}
+      },
+    "saea":
+      {
+        "rsdn":{"dilpd": 495.26, "cilpd": 1075.94, "tipd": 1571.20},
+        "retl":{"devsqm": 4.83, "comsqm": 0.00, "totsqm": 4.83},
+        "comm":{"devsqm": 5.03, "comsqm": 0.00, "totsqm": 5.03},
+        "inds":{"devsqm": 0.59, "comsqm": 0.00, "totsqm": 0.59}
+      },
+    "klba": 
+      {
+        "rsdn":{"dilpd": 154.14, "cilpd": 847.94, "tipd": 1002.08},
+        "retl":{"devsqm": 2.72, "comsqm": 0.00, "totsqm": 2.72},
+        "comm":{"devsqm": 2.60, "comsqm": 0.00, "totsqm": 2.60},
+        "inds":{"devsqm": 0.32, "comsqm": 0.00, "totsqm": 0.32}
+      },
+    "albv":
+      {
+        "rsdn":{"dilpd": 424.68, "cilpd": 864.88, "tipd": 1289.56},
+        "retl":{"devsqm": 5.87, "comsqm": 0.00, "totsqm": 5.87},
+        "comm":{"devsqm": 7.70, "comsqm": 0.00, "totsqm": 7.70},
+        "inds":{"devsqm": 0.80, "comsqm": 0.00, "totsqm": 0.80}
+      },
+    "crnl":
+      {
+        "rsdn":{"dilpd": 453.06, "cilpd": 950.47, "tipd": 1403.53},
+        "retl":{"devsqm": 4.40, "comsqm": 0.00, "totsqm": 4.40},
+        "comm":{"devsqm": 5.67, "comsqm": 0.00, "totsqm": 5.67},
+        "inds":{"devsqm": 0.59, "comsqm": 0.00, "totsqm": 0.59}
+      },
+    "drpk":
+      {
+        "rsdn":{"dilpd": 552.91, "cilpd": 950.47, "tipd": 1503.38},
+        "retl":{"devsqm": 6.17, "comsqm": 0.00, "totsqm": 6.17},
+        "comm":{"devsqm": 8.11, "comsqm": 0.00, "totsqm": 8.11},
+        "inds":{"devsqm": 0.84, "comsqm": 0.00, "totsqm": 0.84}
+      },
+    "ardr":
+      {
+        "rsdn":{"dilpd": 254.66, "cilpd": 675.06, "tipd": 929.72},
+        "retl":{"devsqm": 1.97, "comsqm": 0.00, "totsqm": 1.97},
+        "comm":{"devsqm": 2.34, "comsqm": 0.00, "totsqm": 2.34},
+        "inds":{"devsqm": 0.25, "comsqm": 0.00, "totsqm": 0.25}
+      },
+    "albn":
+      {
+        "rsdn":{"dilpd": 232.64, "cilpd": 675.06, "tipd": 907.70},
+        "retl":{"devsqm": 1.84, "comsqm": 0.00, "totsqm": 1.84},
+        "comm":{"devsqm": 1.84, "comsqm": 0.00, "totsqm": 1.84},
+        "inds":{"devsqm": 0.22, "comsqm": 0.00, "totsqm": 0.22}
+      },
+    "ssnt":
+      {
+        "rsdn":{"dilpd": 218.74, "cilpd": 653.88, "tipd": 872.62},
+        "retl":{"devsqm": 4.78, "comsqm": 0.00, "totsqm": 4.78},
+        "comm":{"devsqm": 3.77, "comsqm": 0.00, "totsqm": 3.77},
+        "inds":{"devsqm": 0.52, "comsqm": 0.00, "totsqm": 0.52}
+      },
+    "drmt":
+      {
+        "rsdn":{"dilpd": 129.74, "cilpd": 714.21, "tipd": 843.95},
+        "retl":{"devsqm": 1.90, "comsqm": 0.00, "totsqm": 1.90},
+        "comm":{"devsqm": 2.58, "comsqm": 0.00, "totsqm": 2.58},
+        "inds":{"devsqm": 0.26, "comsqm": 0.00, "totsqm": 0.26}
+      },
+    "sswt": 
+      {
+        "rsdn":{"dilpd": 362.10, "cilpd": 737.97, "tipd": 1100.07},
+        "retl":{"devsqm": 4.04, "comsqm": 0.00, "totsqm": 4.04},
+        "comm":{"devsqm": 4.61, "comsqm": 0.00, "totsqm": 4.61},
+        "inds":{"devsqm": 0.51, "comsqm": 0.00, "totsqm": 0.51}
+      },
+    "ssab":
+      {
+        "rsdn":{"dilpd": 341.39, "cilpd": 737.97, "tipd": 1079.36},
+        "retl":{"devsqm": 3.98, "comsqm": 0.00, "totsqm": 3.98},
+        "comm":{"devsqm": 4.13, "comsqm": 0.00, "totsqm": 4.13},
+        "inds":{"devsqm": 0.49, "comsqm": 0.00, "totsqm": 0.49}
+      },
+    "sstc":
+      {
+        "rsdn":{"dilpd": 2764.00, "cilpd": 0.00, "tipd": 2764.00},
+        "retl":{"devsqm": 38.00, "comsqm": 0.00, "totsqm": 38.00},
+        "comm":{"devsqm": 29.00, "comsqm": 0.00, "totsqm": 29.00},
+        "inds":{"devsqm": 0.00, "comsqm": 0.00, "totsqm": 0.00}
+      }
+  }    
+  }
+]

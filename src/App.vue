@@ -203,6 +203,8 @@
 </template>
 
 <script>
+    import suburbs from './suburbs.json';
+    console.log('suburbs ', suburbs)
     export default {
       data() {
         return{
